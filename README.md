@@ -19,7 +19,7 @@ The PC version was ported using Electron, allowing the web-based project to run 
 
 # 📥 Download PvZ2 Gardendless — Native Port
 
-👉 PvZ2 Gardendless — Native PC Version (Windows)
+[👉 PvZ2 Gardendless — Native PC Version (Windows)](https://archive.org/download/pvz2_20251210/pvz2.zip)
 
 👉 PvZ2 Gardendless — Native MacOS Version (arm64)
 
@@ -43,8 +43,8 @@ PvZ2 Gardendless — PC Port — это портированная версия 
 PC-версия была портирована с использованием Electron, что позволило веб-проекту работать как полноценное нативное приложение для ПК — без необходимости в браузере или локальном веб-сервере.
 
 # 📥 Скачивание PvZ2 Gardendless — Native Port
-
-👉 PvZ2 Gardendless — Нативная ПК Версия Windows
+[
+👉 PvZ2 Gardendless — Нативная ПК Версия Windows](https://archive.org/download/pvz2_20251210/pvz2.zip)
 
 👉 PvZ2 Gardendless — Нативная MacOS Версия (arm64)
 
