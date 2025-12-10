@@ -6,21 +6,23 @@ An endless garden requires endless defense — now on your PC!
 This port is based on the original open [PvZ2 Gardendless project](https://github.com/Gzh0821/pvzg_site), fully rewritten using web technologies.
 
 
-📘 About the Project
+# 📘 About the Project
 
 PvZ2 Gardendless — PC Port is a ported version of the fan project that allows you to run the game directly on PC without a browser or web server.
 [The main GitHub repository of the PvZ2 Gardendless website served as the foundation for this port.](https://github.com/Gzh0821/pvzg_sit)
 
 All functionality, logic, and content from the web version have been preserved — now in a native PC format.
 
-⚙️ Porting Technology
+# ⚙️ Porting Technology
 
 The PC version was ported using Electron, allowing the web-based project to run as a fully native desktop application without the need for a browser or a local web server.
 
-📥 Download PvZ2 Gardendless — Native Port
+# 📥 Download PvZ2 Gardendless — Native Port
 
 👉 PvZ2 Gardendless — Native PC Version (Windows)
+
 👉 PvZ2 Gardendless — Native MacOS Version (arm64)
+
 
 <hr>
 
@@ -43,4 +45,6 @@ PC-версия была портирована с использованием 
 # 📥 Скачивание PvZ2 Gardendless — Native Port
 
 👉 PvZ2 Gardendless — Нативная ПК Версия Windows
+
 👉 PvZ2 Gardendless — Нативная MacOS Версия (arm64)
+
