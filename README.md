@@ -5,7 +5,6 @@
 An endless garden requires endless defense — now on your PC!
 This port is based on the original open [PvZ2 Gardendless project](https://github.com/Gzh0821/pvzg_site), fully rewritten using web technologies.
 
-Special thanks to everyone who supported the development of the original version!
 
 📘 About the Project
 
@@ -29,8 +28,6 @@ The PC version was ported using Electron, allowing the web-based project to run 
 
 Бесконечный сад требует бесконечной защиты — теперь и на вашем ПК!
 Этот порт создан на основе оригинального открытого проекта [PvZ2 Gardendless](https://github.com/Gzh0821/pvzg_site), полностью переписанного на веб-технологиях.
-
-Спасибо всем, кто поддерживал разработку оригинальной версии!
 
 #📘 О проекте
 
