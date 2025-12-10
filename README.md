@@ -8,8 +8,8 @@ This port is based on the original open [PvZ2 Gardendless project](https://githu
 
 📘 About the Project
 
-PvZ2 Gardendless — PC Port is a ported version of the fan project that allows you to run the game directly on Windows without a browser or web server.
-The main GitHub repository of the PvZ2 Gardendless website served as the foundation for this port.
+PvZ2 Gardendless — PC Port is a ported version of the fan project that allows you to run the game directly on PC without a browser or web server.
+[The main GitHub repository of the PvZ2 Gardendless website served as the foundation for this port.](https://github.com/Gzh0821/pvzg_sit)
 
 All functionality, logic, and content from the web version have been preserved — now in a native PC format.
 
@@ -24,23 +24,23 @@ The PC version was ported using Electron, allowing the web-based project to run 
 
 <hr>
 
-#🌿 PvZ2 Gardendless — Native Port
+# 🌿 PvZ2 Gardendless — Native Port
 
 Бесконечный сад требует бесконечной защиты — теперь и на вашем ПК!
 Этот порт создан на основе оригинального открытого проекта [PvZ2 Gardendless](https://github.com/Gzh0821/pvzg_site), полностью переписанного на веб-технологиях.
 
-#📘 О проекте
+# 📘 О проекте
 
-PvZ2 Gardendless — PC Port — это портированная версия фан-проекта, позволяющая запускать игру напрямую на Windows без браузера и без веб-сервера.
-Основой для порта послужил главный GitHub-репозиторий сайта PvZ2 Gardendless.
+PvZ2 Gardendless — PC Port — это портированная версия фан-проекта, позволяющая запускать игру напрямую на ПК без браузера и без веб-сервера.
+Основой для порта послужил [главный GitHub-репозиторий сайта PvZ2 Gardendless](https://github.com/Gzh0821/pvzg_sit).
 
 В игре сохранён весь функционал, логика и контент веб-версии — теперь в нативном формате для ПК.
 
-⚙️ Технология портирования
+# ⚙️ Технология портирования
 
 PC-версия была портирована с использованием Electron, что позволило веб-проекту работать как полноценное нативное приложение для ПК — без необходимости в браузере или локальном веб-сервере.
 
-#📥 Скачивание PvZ2 Gardendless — Native Port
+# 📥 Скачивание PvZ2 Gardendless — Native Port
 
 👉 PvZ2 Gardendless — Нативная ПК Версия Windows
 👉 PvZ2 Gardendless — Нативная MacOS Версия (arm64)
